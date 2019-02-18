@@ -11,6 +11,7 @@ return firstSymbol +row.substr(1);
 } 
 function countLetters(rew){
  return rew.length;
+ 
 }
 createList(list);
 console.log(bigLetter('bread'));
